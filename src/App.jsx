@@ -621,7 +621,7 @@ function App() {
           </div>
           <div className="border-t border-gray-800 pt-8 flex flex-col sm:flex-row justify-between items-center gap-4">
             <div className="text-gray-500 text-sm">
-              &copy; {new Date().getFullYear()} TrackHSA. All rights reserved.
+              &copy; {new Date().getFullYear()} Innovative AI Apps LLC. All rights reserved.
             </div>
             <div className="text-gray-500 text-xs">
               HSA, FSA, and HRA are account types offered by employers and financial institutions. TrackHSA is not affiliated with any HSA provider.
