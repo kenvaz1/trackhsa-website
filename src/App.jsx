@@ -615,7 +615,7 @@ function App() {
               <div className="space-y-3">
                 <a href="#" className="block text-gray-400 hover:text-white transition text-sm">Privacy Policy</a>
                 <a href="#" className="block text-gray-400 hover:text-white transition text-sm">Terms of Service</a>
-                <a href="mailto:receiptgeniusai@gmail.com" className="block text-gray-400 hover:text-white transition text-sm">Contact Support</a>
+                <a href="mailto:support@trackhsaapp.com" className="block text-gray-400 hover:text-white transition text-sm">Contact Support</a>
               </div>
             </div>
           </div>
