@@ -134,15 +134,15 @@ function App() {
     },
     {
       question: "What's included in the Free vs Premium tier?",
-      answer: "The Free tier includes all core features - unlimited scanning, AI analysis, auto-categorization, search, and folder organization - with occasional ads. Premium ($4.99/month) removes all ads for a completely distraction-free experience."
+      answer: "Free includes up to 20 AI receipt scans per day, auto-categorization, search, folder organization, and unlimited PDF/CSV report generation + sharing, with occasional ads. Premium ($4.99/month) removes ads and unlocks unlimited AI scanning."
     },
     {
       question: "Is my health data secure?",
-      answer: "Yes. All your receipt data is encrypted and stored securely on your device. We use industry-standard security practices and never share your data with third parties."
+      answer: "Yes. Your receipt data is stored locally on your device and protected using iOS data protection. We currently do not offer cloud backup or multi-device sync. If you use AI analysis, receipt text is securely processed to extract receipt details and return results to your app. We do not sell your data."
     },
     {
       question: "Can I export receipts for reimbursement?",
-      answer: "Yes! You can export individual receipts or entire categories as PDFs - perfect for submitting HSA/FSA reimbursement claims or sharing with your tax preparer."
+      answer: "Yes. Both Free and Premium include unlimited PDF/CSV report generation and sharing. Export individual receipts or full categories for reimbursement claims or tax prep."
     },
     {
       question: "Does it work with all types of medical receipts?",
@@ -613,8 +613,8 @@ function App() {
             <div>
               <h4 className="font-semibold mb-4 text-sm">Legal</h4>
               <div className="space-y-3">
-                <a href="#" className="block text-gray-400 hover:text-white transition text-sm">Privacy Policy</a>
-                <a href="#" className="block text-gray-400 hover:text-white transition text-sm">Terms of Service</a>
+                <a href="/privacy-policy.html" className="block text-gray-400 hover:text-white transition text-sm">Privacy Policy</a>
+                <a href="/terms-of-service.html" className="block text-gray-400 hover:text-white transition text-sm">Terms of Service</a>
                 <a href="mailto:support@trackhsaapp.com" className="block text-gray-400 hover:text-white transition text-sm">Contact Support</a>
               </div>
             </div>
