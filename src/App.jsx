@@ -145,8 +145,8 @@ function App() {
       answer: "Yes. Both Free and Premium include unlimited PDF/CSV report generation and sharing. Export individual receipts or full categories for reimbursement claims or tax prep."
     },
     {
-      question: "Does it work with all types of medical receipts?",
-      answer: "Yes. Our AI is trained on receipts from hospitals, doctor's offices, dentists, optometrists, pharmacies, labs, and more. It adapts to different formats automatically."
+      question: "Does it work with different types of receipts?",
+      answer: "Yes. Our AI is trained to handle a wide range of receipts and documents—from medical providers and pharmacies to everyday retail stores—and adapts to different formats automatically."
     }
   ]
 
